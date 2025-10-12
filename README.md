@@ -117,7 +117,7 @@ Este curso usa la licencia [CC-BY-NC-ND](https://github.com/Alejandro-Guerra-Aba
 
 ## 👨‍💻 Autor
 
-[@Alejandro-Guerra-Abán](https://www.github.com/Alejandro-Guerra-Aban)
+[@Alejandro Guerra Abán](https://www.github.com/Alejandro-Guerra-Aban)
 
 ---
 
