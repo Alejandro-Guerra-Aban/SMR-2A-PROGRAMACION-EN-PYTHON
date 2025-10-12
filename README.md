@@ -108,7 +108,7 @@ Para trabajar cómodamente con los archivos y ejercicios de este repositorio, se
 
 ## ⚖️ Licencia
 
-Este curso usa la licencia [CC-BY-NC-ND](https://github.com/midudev/curso-python/blob/main/LICENSE) que permite:
+Este curso usa la licencia [CC-BY-NC-ND](https://github.com/Alejandro-Guerra-Aban/SMR-2A-PROGRAMACION-EN-PYTHON/blob/main/LICENSE) que permite:
 - ✅ Compartir el material
 - ✅ Usar el contenido para uso personal
 - ❌ Uso comercial
