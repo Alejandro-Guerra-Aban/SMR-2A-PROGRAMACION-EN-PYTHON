@@ -1,3 +1,11 @@
+<div align="center">
+
+[![Python Version](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
+![Estado](https://img.shields.io/badge/Estado-En%20emisión-yellow)
+![CC License](https://img.shields.io/badge/license-CC--BY--NC--ND-green.svg)
+
+</div>
+
 # SMR-2A - Programación en Python 🐍
 
 Repositorio de **Alejandro Guerra Abán** para el módulo de **Programación** en **Python** del curso **SMR 2ºA**.
@@ -37,7 +45,8 @@ SMR-2A-PROGRAMACION-EN-PYTHON/
     ```bash
     python EJERCICIOS/ejemplo.py
     ```
-    Si estás usando Visual Studio Code, también puedes hacer clic en el botón ▶️ en la parte superior del editor para ejecutar el código.
+> [!TIP]
+  > Si estás usando Visual Studio Code, también puedes hacer clic en el botón ▶️ en la parte superior del editor para ejecutar el código.
 
 ---
 
@@ -48,6 +57,7 @@ Haz clic para acceder directamente a las carpetas más importantes del repositor
 - 📂 [EJERCICIOS](./EJERCICIOS) — Ejercicios prácticos organizados por temas vistos en clase.
 - 📂 [TEORIA](./TEORIA) — Apuntes, resúmenes y ejemplos teóricos de Python.
 - 📂 [W1-1 ACTIVIDADES](./W1-1%20ACTIVIDADES) — Actividades correspondientes a la Semana 1.
+- 📄 [Documentación de Python](https://docs.python.org/es/) - Documentación oficial en español
 
 > ⚠️ Estas carpetas se irán actualizando conforme avance el curso.  
 > Próximamente se añadirán más secciones como `PROYECTOS`, `RETOS` o `EVALUACIONES`.
@@ -96,12 +106,18 @@ Para trabajar cómodamente con los archivos y ejercicios de este repositorio, se
 
 ---
 
-## 📄 Licencia
+## ⚖️ Licencia
 
-Este repositorio está creado con fines **educativos** y personales.
+Este curso usa la licencia [CC-BY-NC-ND](https://github.com/midudev/curso-python/blob/main/LICENSE) que permite:
+- ✅ Compartir el material
+- ✅ Usar el contenido para uso personal
+- ❌ Uso comercial
+- ❌ Modificación del material
+- ⚠️ Requiere atribución al autor
 
-Puedes reutilizar y adaptar el contenido para tus propios proyectos de aprendizaje.  
-Si decides compartir el código públicamente, se agradece atribuir la autoría original.
+## 👨‍💻 Autor
+
+[@Alejandro-Guerra-Abán](https://www.github.com/Alejandro-Guerra-Aban)
 
 ---
 
