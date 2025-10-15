@@ -3,7 +3,11 @@
 [![Python Version](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
 ![Estado](https://img.shields.io/badge/Estado-En%20emisión-yellow)
 ![CC License](https://img.shields.io/badge/license-CC--BY--NC--ND-green.svg)
-
+<div align="center">
+  <a href="https://github.com/Alejandro-Guerra-Aban">
+    <img src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=github" alt="GitHub">
+  </a>
+</div>
 </div>
 
 # SMR-2A - Programación en Python 🐍
@@ -21,7 +25,8 @@ SMR-2A-PROGRAMACION-EN-PYTHON/
 │
 ├── EJERCICIOS/            # Ejercicios prácticos de clase
 ├── TEORIA/                # Apuntes, resúmenes y explicaciones teóricas
-└── W1-1 ACTIVIDADES/      # Actividades correspondientes a la semana 1
+├── W1-1 ACTIVIDADES/      # Actividades correspondientes a la semana 1
+└── W1.2 ACTIVIDADES VOLUNTARIAS/      # Actividades voluntarias.
 ```
 ---
 
@@ -48,6 +53,12 @@ SMR-2A-PROGRAMACION-EN-PYTHON/
 > [!TIP]
   > Si estás usando Visual Studio Code, también puedes hacer clic en el botón ▶️ en la parte superior del editor para ejecutar el código.
 
+> [!TIP]
+> Si no quieres instalar nada, puedes usar editores online como:
+> - [OnlineGDB](https://www.onlinegdb.com/online_python_compiler)
+> - [Python Sandbox](https://pythonsandbox.io/)
+> - [Google Colab](https://colab.research.google.com/)
+
 ---
 
 ## 📌 Accesos rápidos
@@ -57,10 +68,21 @@ Haz clic para acceder directamente a las carpetas más importantes del repositor
 - 📂 [EJERCICIOS](./EJERCICIOS) — Ejercicios prácticos organizados por temas vistos en clase.
 - 📂 [TEORIA](./TEORIA) — Apuntes, resúmenes y ejemplos teóricos de Python.
 - 📂 [W1-1 ACTIVIDADES](./W1-1%20ACTIVIDADES) — Actividades correspondientes a la Semana 1.
+- 📂 [W1.2 ACTIVIDADES VOLUNTARIAS](./W1.2-Actividades%20voluntarias) — Actividades Voluntarias.
 - 📄 [Documentación de Python](https://docs.python.org/es/) - Documentación oficial en español
 
 > ⚠️ Estas carpetas se irán actualizando conforme avance el curso.  
 > Próximamente se añadirán más secciones como `PROYECTOS`, `RETOS` o `EVALUACIONES`.
+
+---
+
+## ⚙️ Requisitos
+
+> [!IMPORTANT]
+> Necesitarás:
+> - Python 3.x
+> - Editor de código (recomendado VS Code)
+> - Conexión a internet para las clases en vivo
 
 ---
 
