@@ -26,7 +26,8 @@ SMR-2A-PROGRAMACION-EN-PYTHON/
 ├── EJERCICIOS/            # Ejercicios prácticos de clase
 ├── TEORIA/                # Apuntes, resúmenes y explicaciones teóricas
 ├── W1-1 ACTIVIDADES/      # Actividades correspondientes a la semana 1
-└── W1.2 ACTIVIDADES VOLUNTARIAS/      # Actividades voluntarias.
+├── W1.2 ACTIVIDADES VOLUNTARIAS/      # Actividades voluntarias.
+└── W2-1 ACTIVIDADES/      # Actividades correspondientes a la semana 2
 ```
 ---
 
@@ -69,6 +70,7 @@ Haz clic para acceder directamente a las carpetas más importantes del repositor
 - 📂 [TEORIA](./TEORIA) — Apuntes, resúmenes y ejemplos teóricos de Python.
 - 📂 [W1-1 ACTIVIDADES](./W1-1%20ACTIVIDADES) — Actividades correspondientes a la Semana 1.
 - 📂 [W1.2 ACTIVIDADES VOLUNTARIAS](./W1.2-Actividades%20voluntarias) — Actividades Voluntarias.
+- 📂 [W2-1 ACTIVIDADES](./W2.1%20ACTIVIDADES) — Actividades correspondientes a la Semana 2.
 - 📄 [Documentación de Python](https://docs.python.org/es/) - Documentación oficial en español
 
 > ⚠️ Estas carpetas se irán actualizando conforme avance el curso.  
