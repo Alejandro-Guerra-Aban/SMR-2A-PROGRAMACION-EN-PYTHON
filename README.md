@@ -84,7 +84,7 @@ Haz clic para acceder directamente a las carpetas más importantes del repositor
 > Necesitarás:
 > - Python 3.x
 > - Editor de código (recomendado VS Code)
-> - Conexión a internet para las clases en vivo
+> - Conexión a internet para acceder al contenido
 
 ---
 
