@@ -29,7 +29,9 @@ SMR-2A-PROGRAMACION-EN-PYTHON/
 ├── W1.2 ACTIVIDADES VOLUNTARIAS/      # Actividades voluntarias 1
 ├── W2.1 ACTIVIDADES/      # Actividades correspondientes a la semana 2
 ├── W2.2 ACTIVIDADES OPCIONALES IF-ELSE/      # Actividades voluntarias 2
-└── W2.3 ACTIVIDADES/      # Actividades correspondientes a la semana 3
+├── W2.3 ACTIVIDADES/      # Actividades correspondientes a la semana 3
+├── EXAMEN - 10/11/2025    # Examen de la 1ª Evaluacion
+└── W2.5 ACTIVIDADES/      # Actividades correspondientes a la semana 5
 ```
 ---
 
@@ -75,6 +77,7 @@ Haz clic para acceder directamente a las carpetas más importantes del repositor
 - 📂 [W2.1 ACTIVIDADES](./W2.1%20ACTIVIDADES) — Actividades correspondientes a la Semana 2.
 - 📂 [W2.2 ACTIVIDADES OPCIONALES IF-ELSE](./W2.2%20Actividades%20opcionales%20IF-ELSE) — Actividades Voluntarias Semana 2.
 - 📂 [W2.3 ACTIVIDADES](./W2.3%20ACTIVIDADES) — Actividades correspondientes a la Semana 3.
+- 📂 [W2.5 ACTIVIDADES](./W2.5%20BUCLES%20WHILE) — Actividades correspondientes a la Semana 3.
 - 📄 [Documentación de Python](https://docs.python.org/es/) - Documentación oficial en español
 
 > ⚠️ Estas carpetas se irán actualizando conforme avance el curso.  
