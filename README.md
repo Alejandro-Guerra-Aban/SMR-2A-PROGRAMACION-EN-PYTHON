@@ -25,13 +25,15 @@ SMR-2A-PROGRAMACION-EN-PYTHON/
 │
 ├── EJERCICIOS/            # Ejercicios prácticos de clase
 ├── TEORIA/                # Apuntes, resúmenes y explicaciones teóricas
+├── REPASO EXAMEN/         # Apuntes, resúmenes, ejemplos teóricos y ejercicios de repaso para los examenes.
 ├── W1-1 ACTIVIDADES/      # Actividades correspondientes a la semana 1
 ├── W1.2 ACTIVIDADES VOLUNTARIAS/      # Actividades voluntarias 1
 ├── W2.1 ACTIVIDADES/      # Actividades correspondientes a la semana 2
 ├── W2.2 ACTIVIDADES OPCIONALES IF-ELSE/      # Actividades voluntarias 2
 ├── W2.3 ACTIVIDADES/      # Actividades correspondientes a la semana 3
 ├── EXAMEN - 10/11/2025    # Examen de la 1ª Evaluacion
-└── W2.5 ACTIVIDADES/      # Actividades correspondientes a la semana 5
+├── W2.5 ACTIVIDADES/      # Actividades correspondientes a la semana 5
+└── W2.6 BUCLE FOR Y EXCEPCIONES/      # Actividades correspondientes a la semana 6
 ```
 ---
 
@@ -72,12 +74,14 @@ Haz clic para acceder directamente a las carpetas más importantes del repositor
 
 - 📂 [EJERCICIOS](./EJERCICIOS) — Ejercicios prácticos organizados por temas vistos en clase.
 - 📂 [TEORIA](./TEORIA) — Apuntes, resúmenes y ejemplos teóricos de Python.
+- 📂 [REPASO EXAMEN](./REPASO%20EXAMEN) — Apuntes, resúmenes, ejemplos teóricos y ejercicios de repaso para los examenes.
 - 📂 [W1-1 ACTIVIDADES](./W1-1%20ACTIVIDADES) — Actividades correspondientes a la Semana 1.
 - 📂 [W1.2 ACTIVIDADES VOLUNTARIAS](./W1.2-Actividades%20voluntarias) — Actividades Voluntarias Semana 1.
 - 📂 [W2.1 ACTIVIDADES](./W2.1%20ACTIVIDADES) — Actividades correspondientes a la Semana 2.
 - 📂 [W2.2 ACTIVIDADES OPCIONALES IF-ELSE](./W2.2%20Actividades%20opcionales%20IF-ELSE) — Actividades Voluntarias Semana 2.
 - 📂 [W2.3 ACTIVIDADES](./W2.3%20ACTIVIDADES) — Actividades correspondientes a la Semana 3.
 - 📂 [W2.5 ACTIVIDADES](./W2.5%20BUCLES%20WHILE) — Actividades correspondientes a la Semana 5.
+- 📂 [W2.6 BUCLE FOR Y EXCEPCIONES](./W2.6%20Bucle%20for%20y%20excepciones) — Actividades correspondientes a la Semana 6.
 - 📄 [Documentación de Python](https://docs.python.org/es/) - Documentación oficial en español
 
 > ⚠️ Estas carpetas se irán actualizando conforme avance el curso.  
