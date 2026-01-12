@@ -34,7 +34,8 @@ SMR-2A-PROGRAMACION-EN-PYTHON/
 ├── EXAMEN - 10/11/2025    # Examen de la 1ª Evaluacion
 ├── W2.5 ACTIVIDADES/      # Actividades correspondientes a la semana 5
 ├── W2.6 BUCLE FOR Y EXCEPCIONES/      # Actividades correspondientes a la semana 6
-└── W3.1 PRÁCTICA FUNCIONES Y MÓDULOS/      # Actividades correspondientes a la semana 7
+├── W3.1 PRÁCTICA FUNCIONES Y MÓDULOS/      # Actividades correspondientes a la semana 7
+└── W4.1 PRÁCTICAS LISTAS Y CADENAS/      # Actividades correspondientes a la semana 8
 ```
 ---
 
@@ -84,6 +85,7 @@ Haz clic para acceder directamente a las carpetas más importantes del repositor
 - 📂 [W2.5 ACTIVIDADES](./W2.5%20BUCLES%20WHILE) — Actividades correspondientes a la Semana 5.
 - 📂 [W2.6 BUCLE FOR Y EXCEPCIONES](./W2.6%20Bucle%20for%20y%20excepciones) — Actividades correspondientes a la Semana 6.
 - 📂 [W3.1 PRÁCTICA FUNCIONES Y MÓDULOS](./W3.1-Prácticas%20Funciones%20y%20módulos) — Actividades correspondientes a la Semana 7.
+- 📂 [W4.1 PRÁCTICAS LISTAS Y CADENAS](./W4.1-Prácticas%20listas%20y%20cadenas) — Actividades correspondientes a la Semana 8.
 - 📄 [Documentación de Python](https://docs.python.org/es/) - Documentación oficial en español
 
 > ⚠️ Estas carpetas se irán actualizando conforme avance el curso.  
